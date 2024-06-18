@@ -1,0 +1,23 @@
+.posts-container {
+  padding: 20px;
+}
+
+.post {
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0;
+}
+
+.post-title {
+  font-size: 1.5em;
+  margin: 0;
+}
+
+.post-body {
+  font-size: 1em;
+  margin: 5px 0 0;
+}
+
+.error-message {
+  color: red;
+  font-size: 1.2em;
+}
